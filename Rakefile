@@ -31,4 +31,4 @@ Student.create_table
     require_relative './db/seeds.rb'
   end
 end
-end
+
